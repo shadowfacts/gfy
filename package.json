@@ -1,0 +1,29 @@
+{
+  "name": "gfy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin/gfy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowfacts/gfy.git"
+  },
+  "keywords": [
+    "gif",
+    "gfy",
+    "gfycat"
+  ],
+  "author": "shadowfacts",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/shadowfacts/gfy/issues"
+  },
+  "homepage": "https://github.com/shadowfacts/gfy#readme",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "commander": "^2.9.0",
+    "concat-stream": "^1.6.0",
+    "form-data": "^2.1.2",
+    "log-update": "^1.0.2"
+  }
+}
